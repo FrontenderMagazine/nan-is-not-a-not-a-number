@@ -33,9 +33,9 @@
 ## Материалы для дальнейшего изучения:
 
 * [http://www.binaryconvert.com/][1] - калькулятор, который позволяет конвертировать в и из бинарного представления чисел разных форматов
-* [IEEE floating point][2]
-* [Single-precision floating-point format][3] 
-* [Double-precision floating-point format][4]
+* [Число с плавающей точкой в стандарте IEEE][2]
+* [Формат чисел с плавающей запятой одинарной точности][3] 
+* [Формат чисел с плавающей запятой двойной точности][4]
 
 [0]: http://grouper.ieee.org/groups/754/
 [1]: http://www.binaryconvert.com/
